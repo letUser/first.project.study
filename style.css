@@ -1,0 +1,95 @@
+body {
+  font-size: 14px;
+  margin: 0 auto;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  font-family: 'Kreon', serif;
+}
+
+p {
+    margin-bottom: 12px;
+}
+
+h1, h2, h3 {
+    font-weight: 800;
+}
+
+h1 {
+    font-size: 34px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid Grey;
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+#header {
+    margin-bottom: 32px;
+    text-align: center;
+}
+
+#footer {
+    margin-top: 64px;
+    text-align: center;
+}
+
+#psaimg {
+    width: 100px;
+    height: 50px;
+    display: in-line;
+    float: right;
+    padding-right: 0px;
+    padding-left: 36px;
+    margin-top: 5px;
+}
+
+#renimg {
+    width: 160px;
+    height: 65px;
+    display: in-line;
+    padding-right: 0px;
+    margin-top: 16px;
+    background: transporent;
+}
+
+.jobtable {
+     display: block;
+     text-align: left;
+}
+
+#thirdthren {
+     padding-left: 42px;
+     font-weight: 550;
+}
+
+#secthren {
+     padding-left: 50px;
+     font-weight: 550;
+}
+
+#secthpsa {
+     padding-left: 72px;
+     font-weight: 550;
+}
+
+#thirdthpsa {
+     padding-left: 49px;
+     font-weight: 550;
+}
+
+#vkimg {
+     padding-left: 1px;
+}
+
+#gitimg {
+     padding-left: 5px;
+}
