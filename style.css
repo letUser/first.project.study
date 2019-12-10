@@ -1,7 +1,7 @@
 body {
   font-size: 14px;
-  margin: 0 auto;   /* center content */
-  max-width: 800px; /* limit width */
+  margin: 0 auto; 
+  max-width: 800px;
   line-height: 1.5;
   padding-top: 32px;
   padding-bottom: 32px;
@@ -92,4 +92,13 @@ h3 {
 
 #gitimg {
      padding-left: 5px;
+}
+
+.show-on-mobile-only {
+  display: none;
+}
+@media (max-width:750px) {
+  .show-on-mobile-only {
+    display: block;
+  }
 }
