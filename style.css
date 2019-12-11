@@ -100,6 +100,14 @@ h3 {
 
 @media (max-width: 375px) {
   div.contentblock {width: 350px}
+  #psaimg {
+    width:60px;
+    height: 40px;
+  }
+  #renimg {
+    width:60px;
+    height:30px;
+  }
 }
 
 #vkimg {
