@@ -54,18 +54,46 @@ h3 {
     height: 11%;
     padding-left: 20%;
     margin-top: 7%;
+  
+  @media (max-width: 375px) {
+    width: 30%;
+    height: 5%;
+    padding-left: 0%;
+  }
+  @media (max-width: 412px) {
+    width: 30%;
+    height: 5%;
+    padding-left: 0%;
+  }
 }
 
 #renimg {
     width: 80%;
     height: 22%;
-    margin-top: 16px;
+    margin-top: 10
+      
+  @media (max-width: 375px) {
+    width: 35%;
+    height: 2%;
+    padding-left: 0%;
+  }
+  @media (max-width: 412px) {
+    width: 40%;
+    height: 2%;
+    padding-left: 0%;
+  }
 }
 
 .jobtable {
      text-align: left;
      display: table;
      width: 100%;
+  @media (max-width: 375px) {
+    text-size: 50%;
+   }
+  @media (max-width: 412px) {
+    text-size: 55%;
+  }
 }
 
 #thirdthren {
@@ -104,28 +132,6 @@ h3 {
      width: 35%;
      font-weight: 500;
      padding-left: 0%;
-}
-
-@media (max-width: 412px) {
-  #psaimg {
-    width:30px;
-    height:20px;
-  }
-  #renimg {
-    width:40px;
-    height:20px;
-  }
-}
-
-@media (max-width: 375px) {
-  #psaimg {
-    width:30px;
-    height:20px;
-  }
-  #renimg {
-    width:40px;
-    height:20px;
-  }
 }
 
 #vkimg {
