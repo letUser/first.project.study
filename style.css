@@ -151,7 +151,7 @@ th {
 }
 
 #Educ1 {
-     width: 65%;
+     width: 60%;
      font-weight: 500;
      padding-left: 2%;
   @media all and (max-width: 375px) {
@@ -163,7 +163,7 @@ th {
 }
 
 #Educ2 {
-     width: 35%;
+     width: 40%;
      font-weight: 500;
      padding-left: 0%;
   @media all and (max-width: 375px) {
