@@ -146,10 +146,14 @@ h3 {
    width: 100%;
 }
 
+th {
+    text-align: left;
+}
+
 #Educ1 {
      width: 65%;
      font-weight: 500;
-     padding-left: 0%;
+     padding-left: 2%;
   @media all and (max-width: 375px) {
     font-size: 50%;
    }
