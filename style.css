@@ -99,21 +99,45 @@ h3 {
 #thirdthren {
      font-weight: 550;
      width: 40%;
+  @media (max-width: 375px) {
+    text-size: 50%;
+   }
+  @media (max-width: 412px) {
+    text-size: 55%;
+  }
 }
 
 #secthren {
      font-weight: 550;
      width: 35%;
+  @media (max-width: 375px) {
+    text-size: 50%;
+   }
+  @media (max-width: 412px) {
+    text-size: 55%;
+  }
 }
 
 #secthpsa {
      width: 35%;
      font-weight: 550;
+  @media (max-width: 375px) {
+    text-size: 50%;
+   }
+  @media (max-width: 412px) {
+    text-size: 55%;
+  }
 }
 
 #thirdthpsa {
      width: 40%;
      font-weight: 550;
+  @media (max-width: 375px) {
+    text-size: 50%;
+   }
+  @media (max-width: 412px) {
+    text-size: 55%;
+  }
 }
 
 .Educ {
@@ -126,12 +150,24 @@ h3 {
      width: 65%;
      font-weight: 500;
      padding-left: 0%;
+  @media (max-width: 375px) {
+    text-size: 50%;
+   }
+  @media (max-width: 412px) {
+    text-size: 55%;
+  }
 }
 
 #Educ2 {
      width: 35%;
      font-weight: 500;
      padding-left: 0%;
+  @media (max-width: 375px) {
+    text-size: 50%;
+   }
+  @media (max-width: 412px) {
+    text-size: 55%;
+  }
 }
 
 #vkimg {
