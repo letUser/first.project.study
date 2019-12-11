@@ -64,6 +64,8 @@ h3 {
 
 .jobtable {
      text-align: left;
+     display: table;
+     width: 100%;
 }
 
 #thirdthren {
@@ -88,10 +90,20 @@ h3 {
 
 .Educ {
    text-align: left;
+   display: table;
+   width: 100%;
 }
 
-th.Educ {
+#Educ1 {
      width: 50%;
+     font-weight: 550;
+     padding-left: 0%;
+}
+
+#Educ2 {
+     width: 50%;
+     font-weight: 550;
+     padding-left: 0%;
 }
 
 @media (max-width: 412px) {
