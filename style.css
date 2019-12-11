@@ -105,8 +105,8 @@ h3 {
 @media (max-width: 412px) {
   div.contentblock {width: 400px}
     #renimg {
-    width: 10%; 
-    height: 5%;
+    width: 100%; 
+    height: 80%;
   }
 }
 
