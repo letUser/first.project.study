@@ -3,7 +3,7 @@ body {
   margin: 0 auto;
   max-width: 800px;
   line-height: 1.5;
-  padding-top: 5%;
+  padding-top: 3%;
   padding-bottom: 5%;
   font-family: 'Kreon', serif;
   padding-left: 5%;
@@ -87,7 +87,11 @@ h3 {
 }
 
 .Educ {
-   padding-left: 2%;
+   text-align: left;
+}
+
+th.Educ {
+     width: 50%;
 }
 
 @media (max-width: 412px) {
