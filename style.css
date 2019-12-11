@@ -55,12 +55,12 @@ h3 {
     padding-left: 18%;
     margin-top: 7%;
   
-  @media (max-width: 375px) {
+  @media all and (max-width: 375px) {
     width: 30%;
     height: 10px;
     padding-left: 3px;
   }
-  @media (max-width: 412px) {
+  @media all and (max-width: 412px) {
     width: 30%;
     height: 10px;
     padding-left: 3px;
@@ -72,12 +72,12 @@ h3 {
     height: 22%;
     margin-top: 10
       
-  @media (max-width: 375px) {
+  @media all and (max-width: 375px) {
     width: 35%;
     height: 7px;
     padding-left: 0%;
   }
-  @media (max-width: 412px) {
+  @media all and (max-width: 412px) {
     width: 40%;
     height: 7px;
     padding-left: 0%;
@@ -88,10 +88,10 @@ h3 {
      text-align: left;
      display: table;
      width: 100%;
-  @media (max-width: 375px) {
+  @media all and (max-width: 375px) {
     font-size: 50%;
    }
-  @media (max-width: 412px) {
+  @media all and (max-width: 412px) {
     font-size: 55%;
   }
 }
@@ -99,10 +99,10 @@ h3 {
 #thirdthren {
      font-weight: 550;
      width: 40%;
-  @media (max-width: 375px) {
+  @media all and (max-width: 375px) {
     font-size: 50%;
    }
-  @media (max-width: 412px) {
+  @media all and (max-width: 412px) {
     font-size: 55%;
   }
 }
@@ -110,10 +110,10 @@ h3 {
 #secthren {
      font-weight: 550;
      width: 35%;
-  @media (max-width: 375px) {
+  @media all and (max-width: 375px) {
     font-size: 50%;
    }
-  @media (max-width: 412px) {
+  @media all and (max-width: 412px) {
     font-size: 55%;
   }
 }
@@ -121,10 +121,10 @@ h3 {
 #secthpsa {
      width: 35%;
      font-weight: 550;
-  @media (max-width: 375px) {
+  @media all and (max-width: 375px) {
     font-size: 50%;
    }
-  @media (max-width: 412px) {
+  @media all and (max-width: 412px) {
     font-size: 55%;
   }
 }
@@ -132,10 +132,10 @@ h3 {
 #thirdthpsa {
      width: 40%;
      font-weight: 550;
-  @media (max-width: 375px) {
+  @media all and (max-width: 375px) {
     font-size: 50%;
    }
-  @media (max-width: 412px) {
+  @media all and (max-width: 412px) {
     font-size: 55%;
   }
 }
@@ -150,10 +150,10 @@ h3 {
      width: 65%;
      font-weight: 500;
      padding-left: 0%;
-  @media (max-width: 375px) {
+  @media all and (max-width: 375px) {
     font-size: 50%;
    }
-  @media (max-width: 412px) {
+  @media all and (max-width: 412px) {
     font-size: 55%;
   }
 }
@@ -162,10 +162,10 @@ h3 {
      width: 35%;
      font-weight: 500;
      padding-left: 0%;
-  @media (max-width: 375px) {
+  @media all and (max-width: 375px) {
     font-size: 50%;
    }
-  @media (max-width: 412px) {
+  @media all and (max-width: 412px) {
     font-size: 55%;
   }
 }
