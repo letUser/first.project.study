@@ -1,11 +1,13 @@
 body {
-  font-size: 14px;
+  font-size: 80%;
   margin: 0 auto;   /* center content */
   max-width: 800px; /* limit width */
   line-height: 1.5;
-  padding-top: 32px;
-  padding-bottom: 32px;
+  padding-top: 10%;
+  padding-bottom: 10%;
   font-family: 'Kreon', serif;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 p {
@@ -88,6 +90,7 @@ h3 {
      padding-left: 5px;
 }
 
+div {
 @media screen (max-width:1280px) {
   div.contentblock {width: 1200px}
   }
@@ -107,3 +110,4 @@ h3 {
 @media screen (max-width: 375px) {
   div.contentblock {width: 350px}
   }
+}
