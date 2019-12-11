@@ -86,6 +86,22 @@ h3 {
    padding-left: 2%;
 }
 
+@media (max-width: 412px) {
+  div.contentblock {width: 400px}
+  #psaimg {
+    width:80px;
+    height: 50px;
+  }
+  #renimg {
+    width:80px;
+    height:40px;
+  }
+}
+
+@media (max-width: 375px) {
+  div.contentblock {width: 350px}
+  
+
 #vkimg {
      padding-left: 1px;
 }
@@ -93,18 +109,3 @@ h3 {
 #gitimg {
      padding-left: 5px;
 }
-
-@media (max-width:1280px) {
-  div.contentblock {width: 1200px}
-
-@media (max-width:1140px) {
-  div.contentblock {width: 1024px}
-
-@media (max-width: 992px) {
-  div.contentblock {width: 970px}
-
-@media (max-width: 412px) {
-  div.contentblock {width: 400px}
-
-@media (max-width: 375px) {
-  div.contentblock {width: 350px}
