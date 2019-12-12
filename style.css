@@ -195,7 +195,7 @@ th {
   
   .jobtable {
      text-align: left;
-     display: inline;
+     display: grid;
      width: 100%;
   }
   
