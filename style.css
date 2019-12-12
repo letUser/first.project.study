@@ -93,15 +93,13 @@ body {
   }
  
   #psaimg {
-    width: 25%;
-    height: 10%;
-    
+    width: 25px;
+    height: 10px;
 }
 
    #renimg {
     width: 80%;
     height: 70%;
-    
 }
 }
 
