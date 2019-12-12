@@ -61,8 +61,7 @@ h3 {
 #renimg {
     width: 80%;
     height: 22%;
-    padding-top: 10%;
-    background-color: white;
+    padding-top: 8%;
 }
 
 .jobtable {
@@ -146,26 +145,26 @@ th {
 }
 
   #secthpsa {
-     width: 50%;
+     width: 100%;
      font-weight: 550;
     font-size: 80%;
   }
 
 #thirdthpsa {
-     width: 50%;
+     width: 100%;
      font-weight: 550;
   font-size: 80%;
   }
   
   #thirdthren {
      font-weight: 550;
-     width: 50%;
+     width: 100%;
     font-size: 80%;
 }
 
 #secthren {
      font-weight: 550;
-     width: 50%;
+     width: 100%;
   font-size: 80%;
   }
   
@@ -180,13 +179,13 @@ th {
 }
 
 #Educ1 {
-     width: 50%;
+     width: 100%;
      font-weight: 550;
      margin-left: 0%;
 }
 
 #Educ2 {
-     width: 50%;
+     width: 100%;
      font-weight: 500;
      padding-left: 0%;
   }
