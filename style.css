@@ -16,6 +16,7 @@ body {
   
   #grid { 
   display: grid;
+  grid-gap: 0vw;
   grid-template-rows: 1fr 1fr 1fr 1fr;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr))
   }
@@ -26,6 +27,7 @@ body {
 
 #grid2 { 
   display: grid;
+  grid-gap: 0vw;
   grid-template-rows: 1fr 1fr;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr))
   }
@@ -69,7 +71,7 @@ body {
    grid-row: 1 / 2;
   }
   
-   .box7 {
+   .box8 {
    grid-column: 1 / 2;
    grid-row: 2 / 3;
   }
@@ -89,24 +91,24 @@ body {
   
   #grid { 
   display: grid;
+  grid-gap: 0vw;
   grid-template-rows: 1fr 1fr 1fr 1fr;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr))
   grid-gap: 0vw;
   }
 
 #grid > div {
-  padding: .5em;
   text-align: left;
 }
 
 #grid2 { 
   display: grid;
+  grid-gap: 0vw;
   grid-template-rows: 1fr 1fr;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr))
   }
 
 #grid2 > div {
-  padding: .5em;
   text-align: left;
 }
   
@@ -146,7 +148,7 @@ body {
    grid-row: 1 / 2;
   }
   
-   .box7 {
+   .box8 {
    grid-column: 1 / 2;
    grid-row: 2 / 3;
   }
