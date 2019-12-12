@@ -141,6 +141,16 @@ th {
      font-weight: 550;
   font-size: 80%
   }
+  
+  #thirdthren {
+     font-weight: 550;
+     width: 40%;
+}
+
+#secthren {
+     font-weight: 550;
+     width: 35%;
+  }
 }
 
 @media screen and (max-width: 375px) {
@@ -157,10 +167,20 @@ th {
     font-size: 80%
   }
 
-#thirdthpsa {
+  #thirdthpsa {
      width: 40%;
      font-weight: 550;
   font-size: 80%
+  }
+  
+  #thirdthren {
+     font-weight: 550;
+     width: 40%;
+}
+
+   #secthren {
+     font-weight: 550;
+     width: 35%;
   }
 }
 
