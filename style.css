@@ -122,7 +122,7 @@ th {
      padding-left: 5px;
 }
 
-@media (max-width: 420px) {
+@media screen and (max-width: 414px) {
   
   .jobtable {
      text-align: left;
@@ -143,3 +143,26 @@ th {
   font-size: 50%
   }
 }
+
+@media screen and (max-width: 375px) {
+  
+  .jobtable {
+     text-align: left;
+     display: block;
+     width: 100%;
+     font-size: 50%
+  }
+
+  #secthpsa {
+     width: 35%;
+     font-weight: 550;
+    font-size: 50%
+  }
+
+#thirdthpsa {
+     width: 40%;
+     font-weight: 550;
+  font-size: 50%
+  }
+}
+
