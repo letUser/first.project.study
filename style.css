@@ -56,90 +56,38 @@ h3 {
     height: 11%;
     padding-left: 18%;
     margin-top: 7%;
-  
-  @media all and (max-width: 375px) {
-    width: 30%;
-    height: 10px;
-    padding-left: 3px;
-  }
-  @media all and (max-width: 412px) {
-    width: 30%;
-    height: 10px;
-    padding-left: 3px;
-  }
 }
 
 #renimg {
     width: 80%;
     height: 22%;
     margin-top: 10
-      
-  @media all and (max-width: 375px) {
-    width: 35%;
-    height: 7px;
-    padding-left: 0%;
-  }
-  @media all and (max-width: 412px) {
-    width: 40%;
-    height: 7px;
-    padding-left: 0%;
-  }
 }
 
 .jobtable {
      text-align: left;
      display: table;
      width: 100%;
-  @media all and (max-width: 375px) {
-    font-size: 50%;
-   }
-  @media all and (max-width: 412px) {
-    font-size: 55%;
-  }
 }
 
 #thirdthren {
      font-weight: 550;
      width: 40%;
-  @media all and (max-width: 375px) {
-    font-size: 50%;
-   }
-  @media all and (max-width: 412px) {
-    font-size: 55%;
-  }
 }
 
 #secthren {
      font-weight: 550;
      width: 35%;
-  @media all and (max-width: 375px) {
-    font-size: 50%;
-   }
-  @media all and (max-width: 412px) {
-    font-size: 55%;
-  }
 }
 
 #secthpsa {
      width: 35%;
      font-weight: 550;
-  @media all and (max-width: 375px) {
-    font-size: 50%;
-   }
-  @media all and (max-width: 412px) {
-    font-size: 55%;
-  }
 }
 
 #thirdthpsa {
      width: 40%;
      font-weight: 550;
-  @media all and (max-width: 375px) {
-    font-size: 50%;
-   }
-  @media all and (max-width: 412px) {
-    font-size: 55%;
-  }
 }
 
 .Educ {
@@ -158,24 +106,12 @@ th {
      padding-left: 7%;
      margin-left: 0%;
      padding-bottom: 5.9%;
-  @media all and (max-width: 375px) {
-    font-size: 50%;
-   }
-  @media all and (max-width: 412px) {
-    font-size: 55%;
-  }
 }
 
 #Educ2 {
      width: 40%;
      font-weight: 500;
      padding-left: 0%;
-  @media all and (max-width: 375px) {
-    font-size: 50%;
-   }
-  @media all and (max-width: 412px) {
-    font-size: 55%;
-  }
 }
 
 #vkimg {
