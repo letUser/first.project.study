@@ -126,20 +126,20 @@ th {
   
   .jobtable {
      text-align: left;
-     display: block;
+     display: inline;
      width: 100%;
   }
 
   #secthpsa {
      width: 35%;
      font-weight: 550;
-    font-size: 50%
+    font-size: 80%
   }
 
 #thirdthpsa {
      width: 40%;
      font-weight: 550;
-  font-size: 50%
+  font-size: 80%
   }
 }
 
@@ -147,20 +147,20 @@ th {
   
   .jobtable {
      text-align: left;
-     display: block;
+     display: inline;
      width: 100%;
   }
 
   #secthpsa {
      width: 35%;
      font-weight: 550;
-    font-size: 50%
+    font-size: 80%
   }
 
 #thirdthpsa {
      width: 40%;
      font-weight: 550;
-  font-size: 50%
+  font-size: 80%
   }
 }
 
