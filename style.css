@@ -16,9 +16,8 @@ body {
   
   #grid { 
   display: grid;
-  grid-template-rows: 1fr 1fr 1fr;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-gap: 0vw;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr))
   }
 
 #grid > div {
@@ -27,8 +26,8 @@ body {
 
 #grid2 { 
   display: grid;
-  grid-template-rows: 1fr;
-  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr))
   }
 
 #grid2 > div {
@@ -107,7 +106,7 @@ body {
   #grid { 
   display: grid;
   grid-template-rows: 1fr 1fr 1fr 1fr;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr))
   grid-gap: 0vw;
   }
 
@@ -119,8 +118,7 @@ body {
 #grid2 { 
   display: grid;
   grid-template-rows: 1fr 1fr;
-  grid-template-columns:  1fr;
-  grid-gap: 12vw;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr))
   }
 
 #grid2 > div {
