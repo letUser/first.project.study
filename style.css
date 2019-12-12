@@ -12,7 +12,7 @@ body {
   background-color: #FFFFFF;
 }
 
-grid { 
+#grid { 
   display: grid;
   grid-template-rows: 50% 50%;
   grid-template-columns: 25% 35% 40%;
