@@ -134,34 +134,36 @@ th {
     height: 6%;
     padding-left: 18%;
     margin-top: 7%;
+    display: none;
 }
 
   #renimg {
-    width: 95%;
+    width: 65%;
     height: 12%;
+    display: none;
 }
 
   #secthpsa {
-     width: 35%;
+     width: 50%;
      font-weight: 550;
     font-size: 80%;
   }
 
 #thirdthpsa {
-     width: 40%;
+     width: 50%;
      font-weight: 550;
   font-size: 80%;
   }
   
   #thirdthren {
      font-weight: 550;
-     width: 40%;
+     width: 50%;
     font-size: 80%;
 }
 
 #secthren {
      font-weight: 550;
-     width: 35%;
+     width: 50%;
   font-size: 80%;
   }
   
@@ -176,15 +178,13 @@ th {
 }
 
 #Educ1 {
-     width: 60%;
+     width: 50%;
      font-weight: 550;
-     padding-left: 7%;
      margin-left: 0%;
-     padding-bottom: 5.9%;
 }
 
 #Educ2 {
-     width: 40%;
+     width: 50%;
      font-weight: 500;
      padding-left: 0%;
   }
@@ -203,40 +203,36 @@ th {
     height: 6%;
     padding-left: 18%;
     margin-top: 7%;
+    display: none;
 }
   
     #renimg {
-    width: 95%;
+    width: 65%;
     height: 5%;
+    display: none;
 }
 
   #secthpsa {
-     width: 35%;
-     font-weight: 550;
-    font-size: 80%;
-  }
-
-  #secthpsa {
-     width: 35%;
+     width: 50%;
      font-weight: 550;
     font-size: 80%;
   }
 
   #thirdthpsa {
-     width: 40%;
+     width: 50%;
      font-weight: 550;
   font-size: 80%;
   }
   
   #thirdthren {
      font-weight: 550;
-     width: 40%;
+     width: 50%;
     font-size: 80%;
 }
 
    #secthren {
      font-weight: 550;
-     width: 35%;
+     width: 50%;
      font-size: 80%;
   }
   
@@ -251,15 +247,13 @@ th {
 }
 
 #Educ1 {
-     width: 60%;
+     width: 50%;
      font-weight: 550;
-     padding-left: 7%;
      margin-left: 0%;
-     padding-bottom: 5.9%;
 }
 
 #Educ2 {
-     width: 40%;
+     width: 50%;
      font-weight: 500;
      padding-left: 0%;
   }
