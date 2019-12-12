@@ -16,8 +16,8 @@ body {
   
   #grid { 
   display: grid;
-  grid-template-rows: 25% 25% 25% 25%;
-  grid-template-columns: 25% 35% 40%;
+  grid-template-rows: 100% 100% 100% 100%;
+  grid-template-columns: 120px 120px 120px;
   grid-gap: 0vw;
   }
 
@@ -28,8 +28,7 @@ body {
 #grid2 { 
   display: grid;
   grid-template-rows: 100% 100%;
-  grid-template-columns:  100%;
-  grid-gap: 12vw;
+  grid-template-columns: 100%;
   }
 
 #grid2 > div {
