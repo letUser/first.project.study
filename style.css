@@ -196,6 +196,9 @@ th {
   .jobtable {
      text-align: left;
      display: grid;
+     grid-template-rows: 1fr 1fr;
+     grid-template-columns: 1fr;
+     grid-gap: 1vw;
      width: 100%;
   }
   
