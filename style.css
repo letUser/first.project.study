@@ -28,8 +28,8 @@ body {
 
 #grid2 { 
   display: grid;
-  grid-template-rows: 50%;
-  grid-template-columns:  40% 60%;
+  grid-template-rows: 50% 50%;
+  grid-template-columns:  100%;
   grid-gap: 12vw;
   }
 
@@ -78,6 +78,20 @@ body {
    grid-column-end: 3;
    grid-row-start: 4;
    grid-row-end: 5;
+  }
+  
+  .box7 {
+   grid-column-start: 1;
+   grid-column-end: 2;
+   grid-row-start: 1;
+   grid-row-end: 2;
+  }
+  
+   .box8 {
+   grid-column-start: 1;
+   grid-column-end: 2;
+   grid-row-start: 2;
+   grid-row-end: 3;
   }
  
   #psaimg {
