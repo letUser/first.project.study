@@ -232,6 +232,7 @@ body {
 
 #grid2 { 
   display: grid;
+  align-items: flex-start;
   grid-template-rows: 50%;
   grid-template-columns:  60% 40%;
   }
@@ -241,7 +242,7 @@ body {
 }
 
 .box7 {
-  padding-left: 3vw;
+   padding-left: 3vw;
    grid-column-start: 1;
    grid-column-end: 3;
    grid-row-start: 1;
