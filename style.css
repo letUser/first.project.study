@@ -16,6 +16,7 @@ body {
   
    #grid { 
   display: grid;
+  align-items: flex-start;
   grid-row-gap: 1vw;
   grid-auto-flow: row dense;
   grid-template-rows: 1fr 1fr 1fr 1fr;
@@ -29,6 +30,7 @@ body {
 
 #grid3 { 
   display: grid;
+  align-items: flex-start;
   grid-row-gap: 1vw;
   grid-auto-flow: row dense;
   grid-template-rows: 1fr 1fr;
@@ -96,12 +98,13 @@ body {
   #psaimg {
     width: 5vw;
     height: 2vw;
+    padding-top: 5vw;
 }
 
    #renimg {
     width: 5vw;
-    height: 1.5vw;
-    margin-top: 16px;
+    height: 2vw;
+    padding-top: 3vw;
     
   }
 }
@@ -110,6 +113,7 @@ body {
   
   #grid { 
   display: grid;
+  align-items: flex-start;
   grid-row-gap: 1vw;
   grid-auto-flow: row dense;
   grid-template-rows: 1fr 1fr 1fr 1fr;
@@ -123,6 +127,7 @@ body {
 
 #grid3 { 
   display: grid;
+  align-items: flex-start;
   grid-row-gap: 1vw;
   grid-auto-flow: row dense;
   grid-template-rows: 1fr 1fr;
@@ -190,12 +195,13 @@ body {
   #psaimg {
     width: 5vw;
     height: 2vw;
+    padding-top: 5vw;
 }
 
    #renimg {
     width: 5vw;
-    height: 1.6vw;
-    margin-top: 16px;
+    height: 2vw;
+    padding-top: 3vw;
     
   }
 }
