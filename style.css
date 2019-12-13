@@ -213,6 +213,7 @@ body {
 
 #grid3 { 
   display: grid;
+  margin-top: 1%;
   grid-template-rows: 50% 50%;
   grid-template-columns: 25% 35% 40%;
   grid-gap: 0vw;
@@ -220,12 +221,13 @@ body {
 
 #grid3 > div {
   text-align: left;
+  
 }
 
 #grid2 { 
   display: grid;
   grid-template-rows: 50%;
-  grid-template-columns:  59% 41%;
+  grid-template-columns:  60% 40%;
   }
 
 #grid2 > div {
