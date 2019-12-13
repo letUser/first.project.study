@@ -54,6 +54,8 @@ body {
 #grid2 > div {
   text-align: left;
   padding: .5em;
+  padding-left: 2vw;
+
 }
 
 .box1 {
@@ -153,6 +155,7 @@ body {
 #grid2 > div {
   text-align: left;
   padding: .5em;
+  padding-left: 2vw;
 }
 
 .box1 {
