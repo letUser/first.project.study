@@ -53,6 +53,7 @@ body {
 
 #grid2 > div {
   text-align: left;
+  padding: .5em;
 }
 
 .box1 {
@@ -81,7 +82,7 @@ body {
 }   
 
 .box7 {
-   padding-left: 1vw;
+
    grid-column-start: 1;
    grid-column-end: 3;
    grid-row-start: 1;
@@ -89,7 +90,7 @@ body {
 }
 
 .box8 {
-   padding-left: 1vw;
+
    grid-column-start: 1;
    grid-column-end: 3;
    grid-row-start: 2;
@@ -151,6 +152,7 @@ body {
 
 #grid2 > div {
   text-align: left;
+  padding: .5em;
 }
 
 .box1 {
@@ -179,7 +181,7 @@ body {
 }   
 
 .box7 {
-   padding-left: 1vw;
+
    grid-column-start: 1;
    grid-column-end: 3;
    grid-row-start: 1;
@@ -187,7 +189,7 @@ body {
 }
 
 .box8 {
-   padding-left: 1vw;
+
    grid-column-start: 1;
    grid-column-end: 3;
    grid-row-start: 2;
