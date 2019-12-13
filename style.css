@@ -225,7 +225,7 @@ body {
 #grid2 { 
   display: grid;
   grid-template-rows: 50%;
-  grid-template-columns:  40% 60%;
+  grid-template-columns:  59% 41%;
   }
 
 #grid2 > div {
